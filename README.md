@@ -5,7 +5,8 @@ thisprogram for ip camera t3 brand folder structure will be like
 
 ffmpeg merger-v2.py -- run it
 01----|
-	----01-1
+	----0
+	1-1
 	----01-2
 02----|
 	----02-1
