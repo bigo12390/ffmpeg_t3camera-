@@ -1,17 +1,15 @@
-"# ffmpeg_t3camera-"
+<br>first install ffmpeg and add system envoriment
+<br>thisprogram for ip camera t3 brand folder structure will be like
 
-first install ffmpeg and add system envoriment
-thisprogram for ip camera t3 brand folder structure will be like
+<br>ffmpeg merger-v2.py -- run it here<br>
+<br>01----|
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----01-1
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----01-2
+<br>02----|
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----02-1
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----02-2
+<br>03----|
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----03-1
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;----03-2 
 
-ffmpeg merger-v2.py -- run it
-01----|
-	----0
-	1-1
-	----01-2
-02----|
-	----02-1
-	----02-2
-03----|
-	----03-1
-	----03-2 
 	
